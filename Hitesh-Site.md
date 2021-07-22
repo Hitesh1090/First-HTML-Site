@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Hitesh's Personal Site</title>
+    <title></title>
   </head>
   <body>
     <img src="circle-cropped.png" alt="A Handsome Man">
